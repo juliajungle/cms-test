@@ -7,6 +7,7 @@ const INTERVIEWS_QUERY = gql`
       title
       intro
       createdAt
+      date
     }
   }
 `;
